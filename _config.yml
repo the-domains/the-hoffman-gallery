@@ -1,0 +1,14 @@
+layout_spectrum: 0.8066333
+typography_spectrum: 0.8472742
+color:
+  lightness: 0.8964149
+  brandStrength: 0.904599
+  saturation: 0.9143904
+  rhythmicContrast: 0.8529412
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: 'The Hoffman Gallery '
